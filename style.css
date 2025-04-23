@@ -45,11 +45,11 @@ body {
 .game-img {
     width: 100%;
     border-radius: 5px;
-    box-shadow: 0 0 10px #FFFFFF;
+    box-shadow: 0 0 10px #a8b0bc;
 }
 
 .game-card {
-    background-color: #FFFFFF;
+    background-color: #a8b0bc;
     padding: 1%;
     margin: 1%;
     width: 300px;
@@ -60,10 +60,17 @@ body {
 .game-card:hover {
     cursor: pointer;
     box-shadow: 0 0 30px lightblue;
+    border: 2px solid black;
+
 }
 
 #button-container {
     text-align: center;
+}
+#button-container :hover{
+    cursor: pointer;
+    box-shadow: 0 0 30px lightblue;
+    border: 2px solid black;
 }
 
 button {
@@ -72,4 +79,16 @@ button {
     padding: 1%;
     margin: 1%;
     border-radius: 7px;
+    background-color: #a8b0bc;
+
+}
+
+
+.stats-container{
+    display: flex;
+    align-items: center;
+}
+.stats-card :hover{
+    cursor: pointer;
+    box-shadow: 0 0 30px lightblue;
 }
