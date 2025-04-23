@@ -26,7 +26,7 @@ Added a button to quickly go back to the top of the page.
 
 Here's a walkthrough of implemented features:
 
-<img src='https://imgur.com/Q4Agkwm.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://i.imgur.com/Q4Agkwm.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with Gifox  
